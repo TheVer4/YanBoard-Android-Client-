@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YanBoard</string>
+    <string name="automatic_button">автопоиск сервера</string>
+    <string name="channel">MIDI Канал</string>
+    <string name="connect_button">Соединение</string>
+    <string name="disclaimer">YanBoard v1.1CA Beta\nИщите инструкции на TheVer4.ru/YanBoard/\nСделано для yanovkan\nДля работы с клавиатурой поверните телефон в альбомную (горизонтальную) ориентацию\nЕсли клавиатура не запускается, проверьте IP и автоповорот</string>
+    <string name="octaves">Октавы</string>
+    <string name="vibro">Виброотклик</string>
+</resources>

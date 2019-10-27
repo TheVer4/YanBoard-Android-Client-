@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YanBoard</string>
+    <string name="connect_button">Connect</string>
+    <string name="automatic_button">Try automatic server find</string>
+    <string name="vibro">Use vibration</string>
+    <string name="channel">MIDI Channel</string>
+    <string name="octaves">Octaves</string>
+    <string name="disclaimer">YanBoard v1.1CA Beta\nLook manuals at TheVer4.ru/YanBoard/\nMade special for yanovkan\nTo work with piano roll rotate your phone to landscape (horizontal) orientation.\nIf piano roll was not opened, check the correct of IP address and is auto-rotate turned on.</string>
+</resources>
